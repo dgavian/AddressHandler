@@ -1,0 +1,13 @@
+C:\dev\MyLodge\InterviewExercises\RefactoringExercise\RefactoringExercise\bin\Debug\netcoreapp3.1\RefactoringExercise.exe
+C:\dev\MyLodge\InterviewExercises\RefactoringExercise\RefactoringExercise\bin\Debug\netcoreapp3.1\RefactoringExercise.deps.json
+C:\dev\MyLodge\InterviewExercises\RefactoringExercise\RefactoringExercise\bin\Debug\netcoreapp3.1\RefactoringExercise.runtimeconfig.json
+C:\dev\MyLodge\InterviewExercises\RefactoringExercise\RefactoringExercise\bin\Debug\netcoreapp3.1\RefactoringExercise.runtimeconfig.dev.json
+C:\dev\MyLodge\InterviewExercises\RefactoringExercise\RefactoringExercise\bin\Debug\netcoreapp3.1\RefactoringExercise.dll
+C:\dev\MyLodge\InterviewExercises\RefactoringExercise\RefactoringExercise\bin\Debug\netcoreapp3.1\RefactoringExercise.pdb
+C:\dev\MyLodge\InterviewExercises\RefactoringExercise\RefactoringExercise\obj\Debug\netcoreapp3.1\RefactoringExercise.csprojAssemblyReference.cache
+C:\dev\MyLodge\InterviewExercises\RefactoringExercise\RefactoringExercise\obj\Debug\netcoreapp3.1\RefactoringExercise.AssemblyInfoInputs.cache
+C:\dev\MyLodge\InterviewExercises\RefactoringExercise\RefactoringExercise\obj\Debug\netcoreapp3.1\RefactoringExercise.AssemblyInfo.cs
+C:\dev\MyLodge\InterviewExercises\RefactoringExercise\RefactoringExercise\obj\Debug\netcoreapp3.1\RefactoringExercise.csproj.CoreCompileInputs.cache
+C:\dev\MyLodge\InterviewExercises\RefactoringExercise\RefactoringExercise\obj\Debug\netcoreapp3.1\RefactoringExercise.dll
+C:\dev\MyLodge\InterviewExercises\RefactoringExercise\RefactoringExercise\obj\Debug\netcoreapp3.1\RefactoringExercise.pdb
+C:\dev\MyLodge\InterviewExercises\RefactoringExercise\RefactoringExercise\obj\Debug\netcoreapp3.1\RefactoringExercise.genruntimeconfig.cache

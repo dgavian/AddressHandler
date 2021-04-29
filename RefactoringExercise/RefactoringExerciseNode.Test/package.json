@@ -1,0 +1,9 @@
+{
+  "name": "refactoring-exercise-node.test",
+  "version": "0.0.0",
+  "description": "RefactoringExerciseNode.Test",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}

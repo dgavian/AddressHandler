@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "RefactoringExerciseNode", "RefactoringExerciseNode\RefactoringExerciseNode.njsproj", "{D634CD5F-29CE-4A4A-9718-7D751039D4B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D634CD5F-29CE-4A4A-9718-7D751039D4B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D634CD5F-29CE-4A4A-9718-7D751039D4B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D634CD5F-29CE-4A4A-9718-7D751039D4B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D634CD5F-29CE-4A4A-9718-7D751039D4B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCF2B620-7494-4DF4-A2FD-C4DEDF9A74BD}
+	EndGlobalSection
+EndGlobal
