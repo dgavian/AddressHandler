@@ -1,3 +1,0 @@
-﻿# RefactoringExerciseNode.Test
-
-

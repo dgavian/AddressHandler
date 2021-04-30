@@ -14,5 +14,8 @@
     "spec": [
       "test/**/*.js"
     ]
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --no-package --recursive"
   }
 }
